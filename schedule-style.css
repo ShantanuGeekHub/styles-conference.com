@@ -1,0 +1,175 @@
+body{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.section1{
+    background-color: rgb(21, 100, 100);
+    padding-bottom: 60px;
+}
+
+.bg{
+    position: relative;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.308);
+    width: 24.5%;
+    margin-left: 5%;    
+    border: whitesmoke inset 4px;
+    border-top: transparent;
+}
+
+.bg:hover{
+    border: whitesmoke outset 4px;
+    border-top: transparent;
+}
+
+
+#styleconference{
+    font-size: 2.4em;
+    text-transform: uppercase;
+    color: wheat;
+    letter-spacing: 8px;
+    padding: 10px;
+    font-family: 'Shippori Mincho B1', serif;
+}
+
+.menu{
+    font-size: 1.5em;
+    margin-left: 42%;
+    margin-right: 5%;
+    margin-top: -8%;
+    width: fit-content;   
+    line-height: 60px
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    letter-spacing: 6px;
+}
+
+#home, #speaker, #schedule, #venue{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a:hover{
+    color: #666;
+}
+
+#address{
+    color: white;
+}
+
+
+button{
+    font-size: 1.8em;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.308);
+    color: #fff;
+    border: #ddd solid;
+    letter-spacing: 4px;
+    padding: 16px;
+    border-radius: 50px;
+}
+
+button:hover{
+    color: #444;
+    border: #666 solid;
+    background-color: wheat;
+}
+
+img{
+    height: 180px;
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.box1, .box2, .box3{
+    display: inline-block;
+    max-width: 28%;
+    height: 400px;
+    margin: 20px;
+}
+
+.section2{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 3%;
+    color: rosybrown;
+}
+
+.section3{
+    background-color: rgb(21, 100, 100);
+    max-width: 100%;
+    height: 150px;
+    position: relative;
+}
+
+#copyright{
+    position: relative;
+    top: 50%;
+    left: 8%;
+}
+
+#menu2{
+    position: relative;
+    top: 50%;
+    left: 42%;
+}
+
+.schedule{
+    text-align: center;
+    font-size: 1.25em;
+    padding: 25px;
+    background-image: linear-gradient(to left, rgba(245, 222, 179, 0.705), rgba(143, 188, 154, 0.705));
+    color: rgb(21, 100, 100);
+}
+
+table{
+    border: 10px;
+    border-color:#66b2b2;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+fieldset{
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 1.2em;
+    border: ridge 8px #b2d8d8;
+}
+
+legend{
+    font-size: 1.4em;
+    font-weight: 900;
+}
+
+.schedule-details{
+    color: 	#006666;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+
+.offset{
+    width: 380px;
+    padding-left: 50px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+th{
+    position: relative;
+    text-align: right;
+}
+
+.pad{
+    position: relative;
+    top: -30px;
+}
+
+.pad2{
+    position: relative;
+    top: -29px;
+}
