@@ -1,1 +1,1 @@
-# https://github.com/ShantanuGeekHub/styles-conference.com
+# https://shantanugeekhub.github.io/styles-conference.com/
